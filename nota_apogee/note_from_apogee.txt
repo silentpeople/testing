@@ -1,0 +1,3 @@
+OK, good job setakat ni... 
+belajar guna git lagi dan ketahui apa dia fetch, rebase, pull dan push
+
